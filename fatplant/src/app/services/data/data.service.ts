@@ -42,4 +42,9 @@ export class DataService {
     return this.http.get("https://fatplantsmu.ddns.net:5000/pathways/?species="+species+"&uniprot_id="+uniprot_id);
   }
 
+  public updateBlastResult(result: any){
+    this.BlastNeedUpdate = false;
+    this.blastRes = result;
+  }
 }
+

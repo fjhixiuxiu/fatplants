@@ -94,4 +94,7 @@ export class FirestoreAccessService {
   getPathwaysByUniProt(species: string, uniprot_id: string) {
     return this.http.get("https://fatplantsmu.ddns.net:5000/pathways/?species="+species+"&uniprot_id="+uniprot_id);
   }
+  getblast(database: string, sequence:string, parameters: string){
+    return this.http.get("https://fatplantsmu.ddns.net:5000/blast/?database="+database+"&sequence="+sequence+"&parameters="+parameters);
+  }
 }

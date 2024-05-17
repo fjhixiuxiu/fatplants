@@ -45,7 +45,7 @@ export class DataAnalysisComponent implements OnInit {
   displayedGeneColumns = ["uniprot_id", "geneName", "proteinNames"]
   selectedGeneUniprot:string = "";
   selectedFPID:string = "";
-
+  sequence:string;
   // these are the base details to pass to the display
   baseDetails: any = null;
 
@@ -65,7 +65,7 @@ export class DataAnalysisComponent implements OnInit {
 
   blastSelected: boolean = false;
   identifierControl = new FormControl(this.query);
-  
+
   // filteredOptions: Observable<Lmpd_Arapidopsis[]>;
   loadingSearch = false;
 
@@ -119,6 +119,7 @@ export class DataAnalysisComponent implements OnInit {
 
   OneClick() {
     console.log("entered the search");
+    console.log(this.identifierControl.value)
     this.loadingSearch = true;
 
     if (this.proteindatabase === undefined) {
@@ -146,18 +147,23 @@ export class DataAnalysisComponent implements OnInit {
 
       // FULL SEARCH
       if (field == "fullSearch") {
-        this.fsaccess.searchSQLAPI(this.query, this.proteinDatabase["fullSearchSpecies"]).subscribe((data: any) => {
-
+        console.log(field)
+        // default value :   query: string = "Indole-3-glycerol-phosphate";
+        console.log(this.query)
+        console.log(this.query)
+        this.fsaccess.searchSQLAPI(this.identifierControl.value, this.proteinDatabase["fullSearchSpecies"]).subscribe((data: any) => {
+        console.log(this.query)
           if (data.length > 10)
             this.relatedGeneNames = data.slice(0, 10);
           else
             this.relatedGeneNames = data;
-
+         console.log(data[0])
           this.validateResult(data[0]);
         }, error => {
           this.searchError = true;
           this.loadingSearch = false;
         });
+
       }
       else if (field == "uniprot_id") {
         this.fsaccess.getBaseProteinFromUniProt(this.query, this.proteinDatabase["fullSearchSpecies"]).subscribe((data: any) => {
@@ -260,6 +266,7 @@ export class DataAnalysisComponent implements OnInit {
     this.species = this.proteinDatabase['fullSearchSpecies'];
     this.validateResult("");
     this.relatedGeneNames = [];
+
     return;
   }
 

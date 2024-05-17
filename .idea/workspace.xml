@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a456f0f2-12d0-4f86-b3d5-545142f8fa71" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FatPlant-FirebaseMaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FatPlant-FirebaseMaster.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fatplant/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fatplant/src/app/assets/homepageAssets/MU.png" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/assets/homepageAssets/MU.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/assets/homepageAssets/usda.png" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/assets/homepageAssets/usda.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/services/data/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/services/data/data.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fatplant/src/app/services/firestore-access/firestore-access.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fatplant/src/app/services/firestore-access/firestore-access.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +28,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3400">
+              <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#99#0" expanded="true" />
+                <element signature="n#!!block;n#searchG2S#0;n#ShowresultsComponent#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2675">
+              <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#1817#1862#0" />
+                <element signature="e#1896#1941#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="769">
-              <caret line="192" column="22" lean-forward="true" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
+            <state relative-caret-position="191">
+              <caret line="192" column="53" selection-start-line="192" selection-start-column="53" selection-end-line="192" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -35,100 +85,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.ts">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+            <state relative-caret-position="171">
+              <caret line="185" column="17" selection-start-line="185" selection-start-column="14" selection-end-line="185" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/package.json">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/services/firestore-access/firestore-access.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="56" column="29" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="29" />
+            <state relative-caret-position="55">
+              <caret line="78" column="59" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.html">
+        <entry file="file://$PROJECT_DIR$/fatplant/angular.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="171" column="18" selection-start-line="171" selection-start-column="18" selection-end-line="171" selection-end-column="18" />
+            <state relative-caret-position="234">
+              <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
               <folding>
-                <element signature="n#div#1;n#div#1;n#div#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#!!top" />
-                <element signature="n#div#1;n#div#3;n#div#0;n#!!top" />
-                <element signature="n#div#1;n#div#3;n#div#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#!!top" />
-                <element signature="n#div#5;n#div#0;n#!!top" />
-                <element signature="n#div#6;n#div#0;n#!!top" />
-                <element signature="n#div#7;n#div#0;n#!!top" />
-                <element signature="n#div#8;n#div#0;n#!!top" />
-                <element signature="n#div#9;n#div#0;n#!!top" />
+                <element signature="e#0#116#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/introduction/introduction.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="414" column="3" lean-forward="true" selection-start-line="414" selection-start-column="3" selection-end-line="414" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/header/header.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1860">
-              <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
-              <folding>
-                <element signature="e#1#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fatplant/src/app/login/login.component.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -137,29 +136,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>message</find>
-      <find>error</find>
-      <find>paper-items</find>
-      <find>sponsorImg</find>
-      <find>inform</find>
-      <find>spons</find>
-      <find>paper 1</find>
-      <find>information</find>
-      <find>externa</find>
-      <find>request</find>
-      <find>kegg</find>
-      <find>profile</find>
-      <find>profileHo</find>
-      <find>profInf</find>
-      <find>if</find>
-      <find>19</find>
-      <find>news</find>
-      <find>Add News</find>
-      <find>tools</find>
-      <find>PB.jpg</find>
-      <find>FB</find>
-      <find>oilCon</find>
-      <find>row</find>
       <find>Yiwei</find>
       <find>Login</find>
       <find>project aims</find>
@@ -167,12 +143,40 @@
       <find>login</find>
       <find>guest</find>
       <find>3.4.1</find>
+      <find>pathway</find>
+      <find>rout</find>
+      <find>alpha</find>
+      <find>fold</find>
+      <find>5000</find>
+      <find>:5000</find>
+      <find>https://fatplantsmu.ddns.net:5000</find>
+      <find>firestoreaccessser</find>
+      <find>blast</find>
+      <find>database</find>
+      <find>data.service</find>
+      <find>click</find>
+      <find>full</find>
+      <find>search-button</find>
+      <find>summary</find>
+      <find>Possible Matches:</find>
+      <find>species</find>
+      <find>protein_names</find>
+      <find>get</find>
+      <find>MU.png</find>
+      <find>fatplantsmu</find>
+      <find>500</find>
+      <find>http://fatplantsmu.ddns.net:5004</find>
     </findStrings>
     <replaceStrings>
+      <replace>http://fatplantsmu.ddns.net:5004</replace>
       <replace />
+      <replace>https://fatplantsmu.ddns.net:5000</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/</dir>
+      <dir>D:\project\fatplants\fatplant\src\app\components\pages\fileuploads</dir>
+      <dir>D:\project\fatplants\fatplant\src</dir>
+      <dir>D:\project\fatplants\fatplant\src\app\components\pages\onestopsearch\data-analysis</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -181,20 +185,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/fileuploads/upload-files/upload-files.component.css" />
-        <option value="$PROJECT_DIR$/fatplant/src/styles.scss" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/services/mobile/mobile.service.ts" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/services/auth-guard.service.ts" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/constants.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/datapages/camelia/camelia/camelia.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/datapages/fattyacid/fattyacid.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/datapages/soybean/soybean.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.css" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/tools/glmol/glmol.component.ts" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.html" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.css" />
         <option value="$USER_HOME$/School/SoftDev/bdwmzc/assignments/assignment-thirteen/LICENSE.md" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.html" />
@@ -208,7 +203,6 @@
         <option value="$PROJECT_DIR$/fatplant/src/app/add-news/add-news.component.html" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/fileuploads/upload-files/upload-files.component.html" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/fileuploads/upload-task/upload-task.component.ts" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/services/firestore-connection.service.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/add-news/add-news.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/add-news/add-news.component.html" />
         <option value="$PROJECT_DIR$/fatplant/src/app/app.component.css" />
@@ -219,7 +213,6 @@
         <option value="$PROJECT_DIR$/fatplant/src/app/login/login.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/firebase/functions/index.js" />
-        <option value="$PROJECT_DIR$/fatplant/src/environments/environment.prod.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.scss" />
         <option value="$PROJECT_DIR$/fatplant/src/app/login/login.component.scss" />
         <option value="$PROJECT_DIR$/fatplant/src/app/app.component.html" />
@@ -227,25 +220,37 @@
         <option value="$PROJECT_DIR$/fatplant/src/app/header/header.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/header/header.component.html" />
         <option value="$PROJECT_DIR$/fatplant/package.json" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.html" />
         <option value="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.ts" />
-        <option value="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.scss" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.ts" />
         <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.html" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.html" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/services/firestore-connection.service.ts" />
+        <option value="$PROJECT_DIR$/fatplant/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/fatplant/src/environments/environment.prod.ts" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.ts" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/services/data/data.service.ts" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.ts" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.html" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.ts" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.html" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.scss" />
+        <option value="$PROJECT_DIR$/fatplant/src/app/services/firestore-access/firestore-access.service.ts" />
+        <option value="$PROJECT_DIR$/fatplant/angular.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1263" />
-    <option name="y" value="267" />
-    <option name="width" value="2064" />
-    <option name="height" value="1383" />
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="3866" />
+    <option name="height" value="2106" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,12 +267,6 @@
               <item name="fatplants" type="b2602c69:ProjectViewProjectNode" />
               <item name="fatplants" type="462c0819:PsiDirectoryNode" />
               <item name="fatplant" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fatplants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fatplants" type="462c0819:PsiDirectoryNode" />
-              <item name="fatplant" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -300,63 +299,19 @@
               <item name="fatplant" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="introductions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fatplants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fatplants" type="462c0819:PsiDirectoryNode" />
-              <item name="fatplant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="introductions" type="462c0819:PsiDirectoryNode" />
-              <item name="investigator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fatplants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fatplants" type="462c0819:PsiDirectoryNode" />
-              <item name="fatplant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="networks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fatplants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fatplants" type="462c0819:PsiDirectoryNode" />
-              <item name="fatplant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="onestopsearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fatplants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fatplants" type="462c0819:PsiDirectoryNode" />
-              <item name="fatplant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newp3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -366,7 +321,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="ts.external.directory.path" value="D:\fatplants\fatplant\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\project\fatplants\fatplant\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -462,16 +417,24 @@
       <workItem from="1627518820770" duration="266000" />
       <workItem from="1627519277554" duration="151000" />
       <workItem from="1692989111149" duration="3688000" />
+      <workItem from="1706027273802" duration="922000" />
+      <workItem from="1706124760386" duration="12000" />
+      <workItem from="1706741082628" duration="597000" />
+      <workItem from="1706924982482" duration="1362000" />
+      <workItem from="1707167785677" duration="550000" />
+      <workItem from="1710365810727" duration="2001000" />
+      <workItem from="1715963587740" duration="1307000" />
+      <workItem from="1715965049693" duration="12530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228788000" />
+    <option name="totallyTimeSpent" value="250925000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-16" width="1096" height="1896" extended-state="6" />
+    <frame x="-7" y="-7" width="1933" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.028957529" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24507192" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -481,10 +444,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32889965" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35847986" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32792208" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49973363" visible="true" weight="0.4426407" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002664" side_tool="true" weight="0.32792208" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -494,6 +457,8 @@
       <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+      <window_info anchor="right" id="R Packages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,37 +507,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/fileuploads/upload-files/upload-files.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/fileuploads/fileview/fileview.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/add-news/add-news.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/commons/user-modal/user-modal.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/commons/user-modal/user-modal.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -620,20 +554,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/firebase/functions/index.js" />
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/services/firestore-connection.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/services/data/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/services/notification/notification.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -669,8 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/environments/environment.ts" />
-    <entry file="file://$PROJECT_DIR$/fatplant/src/environments/environment.prod.ts" />
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/tab.service.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -699,9 +617,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/functions/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4342">
+          <caret line="231" column="18" selection-start-line="231" selection-start-column="18" selection-end-line="231" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#4;n#div#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#!!top" />
+            <element signature="n#div#6;n#div#0;n#!!top" />
+            <element signature="n#div#7;n#div#0;n#!!top" />
+            <element signature="n#div#8;n#div#0;n#!!top" />
+            <element signature="n#div#9;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/introduction/introduction.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/header/header.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
+        <state relative-caret-position="2574">
           <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
           <folding>
             <element signature="e#1#56#0" expanded="true" />
@@ -711,36 +696,123 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/login/login.component.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
+        <state relative-caret-position="910">
           <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/fatplant/src/environments/environment.prod.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="78">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/package.json">
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="56" column="29" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="29" />
+        <state relative-caret-position="-120">
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/services/data/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/services/firestore-connection.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/node_modules/@angular/forms/forms.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/node_modules/rxjs/src/internal/Observable.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3400">
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#99#0" expanded="true" />
+            <element signature="n#!!block;n#searchG2S#0;n#ShowresultsComponent#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/data-analysis/data-analysis.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/onestopsearch/showresults/showresults.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2675">
+          <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#1817#1862#0" />
+            <element signature="e#1896#1941#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/tools/blast/blast.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        <state relative-caret-position="191">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="192" column="22" lean-forward="true" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
+        <state relative-caret-position="191">
+          <caret line="192" column="53" selection-start-line="192" selection-start-column="53" selection-end-line="192" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
           </folding>
@@ -749,44 +821,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fatplant/src/app/homepage/homepage.component.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="414" column="3" lean-forward="true" selection-start-line="414" selection-start-column="3" selection-end-line="414" selection-end-column="3" />
+        <state relative-caret-position="171">
+          <caret line="185" column="17" selection-start-line="185" selection-start-column="14" selection-end-line="185" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/introduction/introduction.component.html">
+    <entry file="file://$PROJECT_DIR$/fatplant/src/app/services/firestore-access/firestore-access.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="55">
+          <caret line="78" column="59" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.ts">
+    <entry file="file://$PROJECT_DIR$/fatplant/angular.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fatplant/src/app/components/pages/introductions/investigator/investigator.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="171" column="18" selection-start-line="171" selection-start-column="18" selection-end-line="171" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#1;n#div#1;n#div#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#!!top" />
-            <element signature="n#div#1;n#div#3;n#div#0;n#!!top" />
-            <element signature="n#div#1;n#div#3;n#div#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#!!top" />
-            <element signature="n#div#6;n#div#0;n#!!top" />
-            <element signature="n#div#7;n#div#0;n#!!top" />
-            <element signature="n#div#8;n#div#0;n#!!top" />
-            <element signature="n#div#9;n#div#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="234">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
         </state>
       </provider>
     </entry>

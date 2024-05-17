@@ -56,7 +56,7 @@ export class ShowresultsComponent implements OnInit {
   isStructure: boolean;
   isBlast: boolean;
   isPathway: boolean;
-
+  sequence:string;
   G2SDataSource: MatTableDataSource<G2SEntry>;
 
   species: any;
@@ -125,12 +125,20 @@ export class ShowresultsComponent implements OnInit {
   }
 
   getExtendedSpecies() {
+    this.sequence = null;
     this.homologs = null;
     this.dataService.loading = true;
+    console.log(this.baseDetails.fp_id)
+    console.log(this.speciesName)
     this.fsaccess.getExtendedDetails(this.baseDetails.fp_id, this.speciesName).subscribe(res => {
       this.SelectConfig();
       if (res && res[0]){
+
+        console.log(this.extendedData)
         this.extendedData = res[0];
+        console.log("extedneddata is:")
+        console.log(this.extendedData)
+        this.sequence = this.extendedData.sequence;
         this.noPdb = false;
         this.dataService.loading = false;
         this.dataService.BlastNeedUpdate = true;
@@ -242,11 +250,16 @@ export class ShowresultsComponent implements OnInit {
           // this may acutally be fine and not need changes
           //===============================================================================
 
-          this.dataService.updateBlastRes(this.proteinDatabase['database'], this.uniprot_id).subscribe(res=>{
+          // this.dataService.updateBlastRes(this.proteinDatabase['database'], this.uniprot_id).subscribe(res=>{
+          //   this.SplitRes(res);
+          //   this.showProgress = false;
+          //   clearInterval(this.intervalId);
+          // });
+          this.fsaccess.getblast(this.loadedDatabase.toLowerCase(), this.sequence, "").subscribe((res: any) => {
             this.SplitRes(res);
             this.showProgress = false;
             clearInterval(this.intervalId);
-
+            this.dataService.updateBlastResult(res)
           });
         }
 
